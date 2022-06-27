@@ -1,0 +1,12 @@
+Required libraries:
+	For SVM part:
+		numpy
+		sklearn.svm
+		matplotlib.pyplot
+	For Decision Tree part:
+		numpy
+		graphviz
+
+For SVM part, you can just run task1(), task2(), task3() or task4() functions in svm.py file directly for corresponding tasks.In task4() function, there are some points such as #oversampling, #undersampling, #class_weight balanced for implementing necessary items which are given in task4.If you just for example want to test undersampling, you can carry other code blocks which belong to other items, under command.
+
+For Decision Tree part, you can run the dt.py file directly.You can configure trees under ##TESTING section by changing parameters of formTree() function.

@@ -1,0 +1,4 @@
+Open main.py in hw2 folder
+There are three seperate graphic plotter code blocks that are in commands (""" """) for knn,kmeans and hac respectively for testing and checking.
+
+Note: kmeans algorithm elbow graph takes time.
